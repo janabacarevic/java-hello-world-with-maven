@@ -25,9 +25,10 @@ $ mvn package
 
 Creating this project by Maven
 
+
 $ mvn archetype:generate \
 
--DarchetypeArtifactId=maven-archetype-quickstart \
+  -DarchetypeArtifactId=maven-archetype-quickstart \
  
   -DinteractiveMode=false \
 
